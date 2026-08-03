@@ -1,3 +1,5 @@
+@import url('https://googleapis.com');
+
 body {
   background-color : #050505
 }
@@ -9,4 +11,10 @@ body {
     line-height: 1.05;
     color: #E8F1FF;
     margin: 0;
+}
+
+.hero.info {
+  color : #8eb1c2;
+  font-size: clamp(1rem, 3vw, 2.5rem);
+  font-family: 'Comfortaa', sans-serif;
 }
