@@ -1,3 +1,12 @@
 body {
-  background-color : #0A0F1F
+  background-color : #050505
+}
+
+.hero.name {
+    font-family: "Space Grotesk", sans-serif;
+    font-size: clamp(3rem, 7vw, 5.5rem);
+    font-weight: 700;
+    line-height: 1.05;
+    color: #E8F1FF;
+    margin: 0;
 }
